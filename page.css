@@ -4,14 +4,12 @@ body {
 	background-size: 100%;
 	text-align: center;
 	color: white;
-	text-decoration: underline;
 }
 p {
 	text-align: center;
 	color: white;
     font-family: "Times New Roman", Times, serif;
     font-size: 50px;
-    text-decoration: underline;
 }
 a {
 	font-size: 35px;
