@@ -1,0 +1,20 @@
+body {
+	background-image: url("http://culturecheesemag.com/wp-content/uploads/2014/01/macncheese.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	text-align: center;
+	color: white;
+	text-decoration: underline;
+}
+p {
+	text-align: center;
+	color: white;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 50px;
+    text-decoration: underline;
+}
+a {
+	font-size: 35px;
+	color: #99ff33;
+	text-decoration: underline;
+}
